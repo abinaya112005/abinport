@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abinport/static/css/main.a32eb21c.css",
+    "main.js": "/abinport/static/js/main.ffc77f98.js",
+    "static/js/453.22e78471.chunk.js": "/abinport/static/js/453.22e78471.chunk.js",
+    "index.html": "/abinport/index.html",
+    "main.a32eb21c.css.map": "/abinport/static/css/main.a32eb21c.css.map",
+    "main.ffc77f98.js.map": "/abinport/static/js/main.ffc77f98.js.map",
+    "453.22e78471.chunk.js.map": "/abinport/static/js/453.22e78471.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a32eb21c.css",
+    "static/js/main.ffc77f98.js"
+  ]
+}
